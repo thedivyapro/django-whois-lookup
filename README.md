@@ -38,7 +38,7 @@ pip install -r requirements.txt
 After activating the venv and running the requirements.txt .
 
 ```bash
-python main.py
+python manage.py runserver
 ```
 ## Screenshot [Output]
 
