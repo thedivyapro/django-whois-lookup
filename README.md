@@ -38,7 +38,7 @@ python main.py
 ```
 ## Screenshot [Output]
 
-![alt text](https://github.com/theharishpro/django-whois-lookup/blob/main/screenshot-output.png?raw=true)
+![Output-Screenshot](https://github.com/theharishpro/django-whois-lookup/blob/main/screenshot-output.png?raw=false)
 
 
 ## Contributing
