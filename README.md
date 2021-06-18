@@ -7,6 +7,10 @@ Django application which gets WHOIS details of Domain names and returns the deta
 ```bash 
 Python 3.7.4
 ```
+  Django version used  : 
+```bash 
+Django 3.0.8
+```
 ## Initialisation
 
 Create Virtual Environment using venv .
